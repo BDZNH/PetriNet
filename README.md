@@ -1,7 +1,7 @@
-Forkd from [https://github.com/LaPetiteSouris/PetriNet](https://github.com/LaPetiteSouris/PetriNet)
+Forked from [https://github.com/LaPetiteSouris/PetriNet](https://github.com/LaPetiteSouris/PetriNet)
 
 # PetriNet
-模拟PetriNet运行
+模拟Petri网运行
 
 # IDE
 vs 2017
