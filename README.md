@@ -1,5 +1,7 @@
 ﻿Forked from [https://github.com/LaPetiteSouris/PetriNet](https://github.com/LaPetiteSouris/PetriNet)
+
 -----
+
 （Fances）
 # PetriNet
 Projet réalisé pour 4AI02 - C++ avancées, UPMC Paris, printemps 2016 . Le sujet est attaché ci-dessus.<br/>
@@ -30,6 +32,7 @@ Cmake >=2.8.
 1. 在终端执行*cmake*
 2. 然后，执行*make*
 3. 然后，执行*./PetriNet*
+
 -----
 
 # PetriNet
